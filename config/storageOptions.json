@@ -1,0 +1,6 @@
+{
+	"host": "localhost",
+	"dialect": "sqlite",
+	"logging": false,
+	"storage": "/PATH/TO/YOUR/SQLITE/DATABASE.DB"
+}
